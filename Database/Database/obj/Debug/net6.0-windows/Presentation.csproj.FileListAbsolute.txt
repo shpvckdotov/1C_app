@@ -1,0 +1,264 @@
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Presentation.exe
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Presentation.deps.json
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Presentation.runtimeconfig.json
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Presentation.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Presentation.pdb
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Npgsql.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\DatabaseContext.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\DatabaseModels.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\DatabaseContext.pdb
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\DatabaseModels.pdb
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.AssemblyReference.cache
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\Database.Form1.resources
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.GenerateResource.cache
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\Presentation.AssemblyInfoInputs.cache
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\Presentation.AssemblyInfo.cs
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.CoreCompileInputs.cache
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.CopyComplete
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\Presentation.dll
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\refint\Presentation.dll
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\Presentation.pdb
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\Presentation.genruntimeconfig.cache
+D:\ii0ghoasd\Database\Database\obj\Debug\net6.0-windows\ref\Presentation.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Humanizer.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Core.dll
+D:\ii0ghoasd\Database\Database\bin\Debug\net6.0-windows\Core.pdb
+E:\Database\Database\bin\Debug\net6.0-windows\Presentation.exe
+E:\Database\Database\bin\Debug\net6.0-windows\Presentation.deps.json
+E:\Database\Database\bin\Debug\net6.0-windows\Presentation.runtimeconfig.json
+E:\Database\Database\bin\Debug\net6.0-windows\Presentation.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Presentation.pdb
+E:\Database\Database\bin\Debug\net6.0-windows\Humanizer.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Npgsql.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Core.dll
+E:\Database\Database\bin\Debug\net6.0-windows\DatabaseContext.dll
+E:\Database\Database\bin\Debug\net6.0-windows\DatabaseModels.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Core.pdb
+E:\Database\Database\bin\Debug\net6.0-windows\DatabaseContext.pdb
+E:\Database\Database\bin\Debug\net6.0-windows\DatabaseModels.pdb
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.AssemblyReference.cache
+E:\Database\Database\obj\Debug\net6.0-windows\Database.Form1.resources
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.GenerateResource.cache
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.AssemblyInfoInputs.cache
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.AssemblyInfo.cs
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.CoreCompileInputs.cache
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.CopyComplete
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.dll
+E:\Database\Database\obj\Debug\net6.0-windows\refint\Presentation.dll
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.pdb
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.genruntimeconfig.cache
+E:\Database\Database\obj\Debug\net6.0-windows\ref\Presentation.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\Database\Database\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\Database\Database\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\Database\Database\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Presentation.exe
+G:\Database\Database\bin\Debug\net6.0-windows\Presentation.deps.json
+G:\Database\Database\bin\Debug\net6.0-windows\Presentation.runtimeconfig.json
+G:\Database\Database\bin\Debug\net6.0-windows\Presentation.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Presentation.pdb
+G:\Database\Database\bin\Debug\net6.0-windows\Azure.Core.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Azure.Identity.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Humanizer.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Npgsql.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Database\Database\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\Database\Database\bin\Debug\net6.0-windows\System.Memory.Data.dll
+G:\Database\Database\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+G:\Database\Database\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+G:\Database\Database\bin\Debug\net6.0-windows\System.Text.Json.dll
+G:\Database\Database\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Database\Database\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Database\Database\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Database\Database\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Database\Database\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Database\Database\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Database\Database\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Database\Database\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Core.dll
+G:\Database\Database\bin\Debug\net6.0-windows\DatabaseContext.dll
+G:\Database\Database\bin\Debug\net6.0-windows\DatabaseModels.dll
+G:\Database\Database\bin\Debug\net6.0-windows\Core.pdb
+G:\Database\Database\bin\Debug\net6.0-windows\DatabaseContext.pdb
+G:\Database\Database\bin\Debug\net6.0-windows\DatabaseModels.pdb
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.AssemblyReference.cache
+G:\Database\Database\obj\Debug\net6.0-windows\Database.Form1.resources
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.GenerateResource.cache
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.AssemblyInfoInputs.cache
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.AssemblyInfo.cs
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.CoreCompileInputs.cache
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.CopyComplete
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.dll
+G:\Database\Database\obj\Debug\net6.0-windows\refint\Presentation.dll
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.pdb
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.genruntimeconfig.cache
+G:\Database\Database\obj\Debug\net6.0-windows\ref\Presentation.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Database\Database\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\Database\Database\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Database\Database\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\Database\Database\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Database\Database\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Database\Database\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Database\Database\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Database\Database\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Database\Database\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Database\Database\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Database\Database\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.Form2.resources
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.Form3.resources
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.Form4.resources
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.Form10.resources
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.Form5.resources
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.Form6.resources
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.Form7.resources
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.Form8.resources
+E:\Database\Database\obj\Debug\net6.0-windows\Presentation.Form9.resources
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.RecordStudent.resources
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.DeleteCurator.resources
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.DeleteGroup.resources
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.DeleteStudent.resources
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.RecordCurator.resources
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.RecordGroup.resources
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.RedactCurator.resources
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.RedactGroup.resources
+G:\Database\Database\obj\Debug\net6.0-windows\Presentation.RedactStudent.resources
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Presentation.exe
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Presentation.deps.json
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Presentation.runtimeconfig.json
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Presentation.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Presentation.pdb
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Core.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\DatabaseContext.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\DatabaseModels.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\Core.pdb
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\DatabaseContext.pdb
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\DatabaseModels.pdb
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\Database.Form1.resources
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\Presentation.csproj.CopyComplete
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\Presentation.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\refint\Presentation.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\Presentation.pdb
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\obj\Debug\net6.0-windows\ref\Presentation.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\Database\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll

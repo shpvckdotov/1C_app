@@ -1,0 +1,68 @@
+D:\ii0ghoasd\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.deps.json
+D:\ii0ghoasd\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.dll
+D:\ii0ghoasd\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.pdb
+D:\ii0ghoasd\Database\DatabaseContext\bin\Debug\net6.0\DatabaseModels.dll
+D:\ii0ghoasd\Database\DatabaseContext\bin\Debug\net6.0\DatabaseModels.pdb
+D:\ii0ghoasd\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.AssemblyReference.cache
+D:\ii0ghoasd\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\ii0ghoasd\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.AssemblyInfoInputs.cache
+D:\ii0ghoasd\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.AssemblyInfo.cs
+D:\ii0ghoasd\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.CoreCompileInputs.cache
+D:\ii0ghoasd\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.CopyComplete
+D:\ii0ghoasd\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.dll
+D:\ii0ghoasd\Database\DatabaseContext\obj\Debug\net6.0\refint\DatabaseContext.dll
+D:\ii0ghoasd\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.pdb
+D:\ii0ghoasd\Database\DatabaseContext\obj\Debug\net6.0\ref\DatabaseContext.dll
+D:\ii0ghoasd\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.runtimeconfig.json
+D:\ii0ghoasd\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.genruntimeconfig.cache
+E:\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.deps.json
+E:\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.runtimeconfig.json
+E:\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.dll
+E:\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.pdb
+E:\Database\DatabaseContext\bin\Debug\net6.0\DatabaseModels.dll
+E:\Database\DatabaseContext\bin\Debug\net6.0\DatabaseModels.pdb
+E:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.AssemblyReference.cache
+E:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.AssemblyInfoInputs.cache
+E:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.AssemblyInfo.cs
+E:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.CoreCompileInputs.cache
+E:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.CopyComplete
+E:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.dll
+E:\Database\DatabaseContext\obj\Debug\net6.0\refint\DatabaseContext.dll
+E:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.pdb
+E:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.genruntimeconfig.cache
+E:\Database\DatabaseContext\obj\Debug\net6.0\ref\DatabaseContext.dll
+G:\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.deps.json
+G:\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.runtimeconfig.json
+G:\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.dll
+G:\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.pdb
+G:\Database\DatabaseContext\bin\Debug\net6.0\DatabaseModels.dll
+G:\Database\DatabaseContext\bin\Debug\net6.0\DatabaseModels.pdb
+G:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.AssemblyReference.cache
+G:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+G:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.AssemblyInfoInputs.cache
+G:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.AssemblyInfo.cs
+G:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.CoreCompileInputs.cache
+G:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.CopyComplete
+G:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.dll
+G:\Database\DatabaseContext\obj\Debug\net6.0\refint\DatabaseContext.dll
+G:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.pdb
+G:\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.genruntimeconfig.cache
+G:\Database\DatabaseContext\obj\Debug\net6.0\ref\DatabaseContext.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.deps.json
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.runtimeconfig.json
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\bin\Debug\net6.0\DatabaseContext.pdb
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\bin\Debug\net6.0\DatabaseModels.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\bin\Debug\net6.0\DatabaseModels.pdb
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.AssemblyReference.cache
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.AssemblyInfoInputs.cache
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.AssemblyInfo.cs
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.csproj.CopyComplete
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\obj\Debug\net6.0\refint\DatabaseContext.dll
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.pdb
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\obj\Debug\net6.0\DatabaseContext.genruntimeconfig.cache
+C:\Users\hulik\OneDrive\Рабочий стол\Database\DatabaseContext\obj\Debug\net6.0\ref\DatabaseContext.dll
