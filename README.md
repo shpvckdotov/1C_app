@@ -1,2 +1,2 @@
 # 1C_app
-asd
+https://disk.yandex.ru/i/ln6Fa4SwvX7tNQ
